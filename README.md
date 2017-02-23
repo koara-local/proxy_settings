@@ -1,5 +1,13 @@
 # proxy settings
 
+## Initalise
+
+```
+./init.sh
+```
+
+Need to run `git update-index --assume-unchanged env.source`
+
 ## Usage
 ### Step 1
 
